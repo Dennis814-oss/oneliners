@@ -59,7 +59,7 @@ oneliners = [
     "To infinity and beyond!",  # Toy Story (1995)
     "You’re tearing me apart, Lisa!",  # The Room (2003)
     "Obsession is a young man's game", # The Presitge (2006)
-
+    "Im inevitable,ironman"# end game(2019)
+    "Avengers! Assemble", # Avengers: Endgame (2019)
 ]
-
 print(random.choice(oneliners))
